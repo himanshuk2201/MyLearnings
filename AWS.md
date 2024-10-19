@@ -35,8 +35,7 @@
 - Elastic IPs: for associating IP to instance (No charges if used)
 
 -SSH
-	
-====================
+
 - EC2 sizing and configuration options
 	- OS, CPUs, RAM, Storage, Network card, Furewall rules, Bootstrap script
 
@@ -50,7 +49,6 @@
 ## IAM (Identity & Access Management) Service
 - When user created, Access Key ID & Secret Access Key) 
 - IAM Groups	
-- IAM Roles - 
+- IAM Roles
 - Policies
 	- Json doc that define permissions and can be applied to user, groups and role
-	-
