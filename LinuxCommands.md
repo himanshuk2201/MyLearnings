@@ -12,8 +12,16 @@
 	```bash
 	mkdir himanshuk
 	```
+- `rmdir` - remove a directory
+	```bash
+	rmdir dir_name
+	```
 - `pwd` - print the current working directory
 	```bash
 	pwd
 	```
-
+- `cp` - copy files or directories
+	```bash
+	#We will copy a file example.tst from the current directory to backup directory
+	cp example.txt backup/
+	```
