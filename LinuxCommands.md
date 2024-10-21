@@ -25,3 +25,20 @@
 	#We will copy a file example.tst from the current directory to backup directory
 	cp example.txt backup/
 	```
+- `mv` - move or rename files or directories
+	```bash
+	mv example.txt backup/
+	```
+- `rm` - remove files or directories
+	```bash
+	rm example.txt
+	```
+- `touch` - create a new empty file or update the timestamp of an existing file
+	```bash
+	touch himanshuk.py
+	```
+
+- `cat` - concatenate and display files
+	```bash
+	cat himanshuk.txt
+	```
